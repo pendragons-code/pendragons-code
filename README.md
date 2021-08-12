@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pendragons-code
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning sql and sqlite
+- 📫 You can reach me from: code.senghong.xyz (more details will be uploaded soon!)
