@@ -7,7 +7,7 @@
 - 🔭 I am looking for a purpose!
 - 🌱 I’m currently learning everything 🤣!
 - 👯 I like lego!
-- 🥅 2021 Goals: Contribute more to Open Source projects!
+- 🥅 2022 Goals: Do well for the national exams that will suck at my lifespan and power!!
 - ⚡ I am a boring person!
 
 ### Reach out to me!
