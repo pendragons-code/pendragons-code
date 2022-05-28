@@ -17,12 +17,7 @@
 
 <br />
 
-## Things I use!
-
-<img align="center" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
+[![Pendragons-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=pendragons-code)](https://github.com/anuraghazra/github-readme-stats)
 [website]: https://senghong.xyz
 [portfolio]: https://code.senghong.xyz
 [instagram]: https://instagram.com/pendragonscode
