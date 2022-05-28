@@ -13,14 +13,6 @@
 ### Reach out to me!
 [<img align="left" alt="code.senghong.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
 [<img align="left" alt="Pendragonscode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
-
-  
-    
-      
-        
-          
-
 [portfolio]: https://code.senghong.xyz
 [instagram]: https://instagram.com/pendragonscode
