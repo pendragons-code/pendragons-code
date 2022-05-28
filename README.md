@@ -15,16 +15,9 @@
                         
                             
 [<img align="left" alt="code.senghong.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-
 [<img align="left" alt="Pendragonscode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-      
-          
-[![Pendragons-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=pendragons-code)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pendragons-code&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 
   
     
