@@ -1,6 +1,5 @@
 ### Hi there, I'm Woon Seng Hong - aka [Pendragonscode][website] 👋 
 
-[![Website](https://img.shields.io/website?down_message=Downtime%20%3A%28&style=for-the-badge&up_color=green&up_message=Check%20it%20out%21&url=https%3A%2F%2Fcode.senghong.xyz)](https://code.senghong.xyz)
 
 ## I'm Person with no friends and all I have is nothing!
 
