@@ -1,5 +1,5 @@
 ### Hi there, I'm Woon Seng Hong - aka [Pendragonscode][website] 👋 
-### I am someone with some financial instability (Donate here!)[https://get.me/woonseng]
+I am someone with some financial instability (Donate here!)[https://get.me/woonseng]
 
 
 ## I'm Person with no friends and all I have is nothing!
