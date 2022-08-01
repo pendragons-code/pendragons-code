@@ -2,7 +2,7 @@
 I am someone with some financial instability [Donate here!](https://get.me/woonseng)
 
 
-## I'm Person with no friends and all I have is nothing!
+## I'm a person with no friends and all I have is nothing!
 
 - 🔭 I am looking for a purpose!
 - 🌱 I’m currently learning everything 🤣!
