@@ -5,10 +5,13 @@ I am someone with some financial instability [Donate here!](https://get.me/woons
 ## I'm a person with no friends and all I have is nothing!
 
 - 🔭 I am looking for a purpose!
-- 🌱 I’m currently learning everything 🤣!
-- 👯 I like lego!
-- 🥅 2022 Goals: Do well for the national exams that will suck at my lifespan and power!!
+- 👯 I am an AFOL (Adult Fan Of Lego)!
 - ⚡ I am a boring person!
+- ✨ I am a student in Xinmin sec!
+- ✊ I am an airsoft/nerf lover (Used to play a lot, now no since Singapore). DOUBLE TIME!!!
+- 😬 I am a ventriloquist!
+- 🐧 I am a linux user!
+- ⚔️ I am **PENDRAGON'S CODE!!!!!!!!!!!**
 
 ### Reach out to me!
 [<img align="left" alt="code.senghong.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
