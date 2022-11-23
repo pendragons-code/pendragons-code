@@ -10,7 +10,7 @@ I realize that i truly have no future down this path so ??? that said, im not de
 - 👯 I am an AFOL (Adult Fan Of Lego)!
 - ⚡ I am a boring and strupid person (very)!
 - ✨ I am a student in Xinmin sec (getting out soon?)!
-- ✊ I am an squad/airsoft/nerf lover (Used to play a lot, now no since Singapore).
+- ✊ I am an squad/airsoft/nerf lover (Used to play a lot, now no since Singapore, too poor for nerf wars).
 - 😬 I am a ventriloquist!
 - 🐧 I am a linux user!
 - ⚔️ I am **PENDRAGON'S CODE!!!!!!!!!!!**               
