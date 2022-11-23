@@ -6,14 +6,14 @@ I am someone with some financial instability [Donate here!](https://get.me/woons
 
 - 🔭 I am looking for a purpose!
 - 👯 I am an AFOL (Adult Fan Of Lego)!
-- ⚡ I am a boring person!
-- ✨ I am a student in Xinmin sec!
-- ✊ I am an airsoft/nerf lover (Used to play a lot, now no since Singapore). DOUBLE TIME!!!
+- ⚡ I am a boring person (very)!
+- ✨ I am a student in Xinmin sec (getting out soon?)!
+- ✊ I am an squad/airsoft/nerf lover (Used to play a lot, now no since Singapore).
 - 😬 I am a ventriloquist!
 - 🐧 I am a linux user!
 - ⚔️ I am **PENDRAGON'S CODE!!!!!!!!!!!**
 
-### Reach out to me!
+### Reach out to me (or don't, i'm not lonely 🥹)!
 [<img align="left" alt="code.senghong.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="Pendragonscode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
