@@ -6,12 +6,16 @@ I am someone with some financial instability [Donate here!](https://get.me/woons
 
 - 🔭 I am looking for a purpose!
 - 👯 I am an AFOL (Adult Fan Of Lego)!
-- ⚡ I am a boring person (very)!
+- ⚡ I am a boring and strupid person (very)!
 - ✨ I am a student in Xinmin sec (getting out soon?)!
 - ✊ I am an squad/airsoft/nerf lover (Used to play a lot, now no since Singapore).
 - 😬 I am a ventriloquist!
 - 🐧 I am a linux user!
-- ⚔️ I am **PENDRAGON'S CODE!!!!!!!!!!!**
+- ⚔️ I am **PENDRAGON'S CODE!!!!!!!!!!!**               
+
+
+- I'm someone that possess an extent of retardacy not known to men, should it be represented as a numerical value, it would be so huge that a 10 trillion + bit super quantumn computer calculating for an infinite number of years would not be able to fully process that said insanely huge numerical value.
+
 
 ### Reach out to me (or don't, i'm not lonely 🥹)!
 [<img align="left" alt="code.senghong.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
