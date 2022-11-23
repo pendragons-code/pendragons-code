@@ -1,6 +1,8 @@
 ### Hi there, I'm Woon Seng Hong - aka [Pendragonscode][website] 👋 
-I am someone with some financial instability [Donate here!](https://get.me/woonseng)
-
+I am someone with some financial instability [Donate here!](https://get.me/woonseng)      
+Read my [priority table!](https://github.com/pendragons-code/System-Priority-Table)          
+A lot of shit is going on for me off keyboard (? is that a term) so I'm kinda figuring out how to pull my shit together. I'm not smart, if anything, im fricking dumb. I'm still figuring out what I want to do. I might drop coding or programming entirely (yeah, maybe i'll avoid computers.)        
+I realize that i truly have no future down this path so ??? that said, im not depressed. I'm just thinking if i want to become a developer (a terrible one) as a professional. Not only are the people who are in the profession telling me about their regrets, struggles and bad impacts of becoming one, but also because im weak academically and i have no idea if i truly want to be in this field.
 
 ## I'm a person with no friends and all I have is nothing!
 
