@@ -10,11 +10,11 @@ I realize that i truly have no future down this path so ??? that said, im not de
 - 👯 I am an AFOL (Adult Fan Of Lego)!
 - ⚡ I am a boring and strupid person (very)!
 - ✨ I am a student in Xinmin sec (getting out soon?)!
-- ✊ I am an squad/airsoft/nerf lover (Used to play a lot, now no since Singapore, too poor for nerf wars).
+- ✊ I am an squad/airsoft/nerf lover (Used to play a lot of milsim, now no airsoft since Singapore, too poor for nerf wars).
 - 😬 I am a ventriloquist!
 - 🐧 I am a linux user!
-- ⚔️ I am **PENDRAGON'S CODE!!!!!!!!!!!**               
-
+- ⚔️ I am **PENDRAGON'S CODE!**               
+- I primarily work with discord bots and other smaller stuff nowadays. I stopped working on kernel and android related stuff(kotlin and more) because I am going back to school soon.
 
 - I'm someone that possess an extent of retardacy not known to men, should it be represented as a numerical value, it would be so huge that a 10 trillion + bit super quantumn computer calculating for an infinite number of years would not be able to fully process that said insanely huge numerical value.
 
@@ -42,6 +42,7 @@ I realize that i truly have no future down this path so ??? that said, im not de
 [portfolio]: https://code.senghong.xyz
 [instagram]: https://instagram.com/pendragonscode
 [website]: https://code.senghong.xyz
+[jasbot]: https://jasbot.senghong.xyz
 
 
 
