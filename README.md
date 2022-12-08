@@ -21,7 +21,7 @@ I realize that i truly have no future down this path so ??? that said, im not de
 
 ### Reach out to me (or don't, i'm not lonely 🥹)!
 [<img align="left" alt="code.senghong.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
+[<img align="left" alt="jasbot.senghong.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Pendragonscode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
   
     
