@@ -8,7 +8,7 @@ Please help people all around the world.
 
 - 🔭 I am looking for a purpose!
 - 👯 I am an AFOL (Adult Fan Of Lego)!
-- ⚡ I am a boring and strupid person (very)!
+- ⚡ I am a boring and stupid person (very)!
 - ✨ I am an ex-student of Xinmin sec!
 - ✊ I am an squad/airsoft/nerf lover (Used to play a lot of milsim, now no airsoft since Singapore, too poor for nerf wars).
 - 😬 I am a ventriloquist!
