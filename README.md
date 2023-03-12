@@ -1,4 +1,4 @@
-### Hi there, I'm Woon Seng Hong - aka [Pendragonscode][website] 👋 
+### Hi there! I am [Pendragonscode][website] 👋 
 I am someone with some financial instability [Donate here!](https://get.me/woonseng)      
 Read my [priority table!](https://github.com/pendragons-code/System-Priority-Table)          
 
