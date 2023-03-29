@@ -40,7 +40,7 @@ Please help people all around the world.
 
 [portfolio]: https://code.senghong.xyz
 [instagram]: https://instagram.com/pendragonscode
-[website]: https://code.senghong.xyz
+[website]: https://senghong.xyz
 [jasbot]: https://jasbot.senghong.xyz
 
 
