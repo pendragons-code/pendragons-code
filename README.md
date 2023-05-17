@@ -1,5 +1,4 @@
 ### Hi there! I am [Pendragonscode][website] 👋 
-I am someone with some financial instability [Donate here!](https://get.me/woonseng)      
 Read my [priority table!](https://github.com/pendragons-code/System-Priority-Table)          
 
 Please help people all around the world.
@@ -19,8 +18,8 @@ Please help people all around the world.
 
 
 ### Reach out to me (or don't, i'm not lonely 🥹)!
-[<img align="left" alt="code.senghong.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jasbot.senghong.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="code.pendragonscode.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jasbot.pendragonscode.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Pendragonscode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
   
     
@@ -38,10 +37,10 @@ Please help people all around the world.
 
 
 
-[portfolio]: https://code.senghong.xyz
+[portfolio]: https://code.pendragonscode.xyz
 [instagram]: https://instagram.com/pendragonscode
-[website]: https://senghong.xyz
-[jasbot]: https://jasbot.senghong.xyz
+[website]: https://pendragonscode.xyz
+[jasbot]: https://jasbot.pendragonscode.xyz
 
 
 
