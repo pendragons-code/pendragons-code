@@ -1,5 +1,5 @@
 ### Hi there! I am [Pendragonscode][website] 👋 
-Read my [priority table!](https://github.com/pendragons-code/System-Priority-Table)          
+Read my [Todo Standard!](https://github.com/pendragons-code/TODO-standard)          
 
 Please help people all around the world.
 
