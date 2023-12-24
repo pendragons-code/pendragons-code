@@ -8,18 +8,15 @@ Please help people all around the world.
 - 🔭 I am looking for a purpose!
 - 👯 I am an AFOL (Adult Fan Of Lego)!
 - ⚡ I am a boring and stupid person (very)!
-- ✊ I am an squad/airsoft/nerf lover.
-- 😬 I am a ventriloquist!
+- ✊ I am into squad/airsoft/nerf.
 - 🐧 I am a linux user!
 - ⚔️ I am **PENDRAGON'S CODE!**               
-- I primarily work with discord bots and other smaller stuff nowadays. I stopped working on kernel and android related stuff(kotlin and more) because I am going back to school soon.
+- I primarily work with discord bots and other smaller stuff nowadays. I stopped working on kernel(and other asic related stuff) and android related stuff(kotlin and more) because I am going back to school soon.
 
 - I'm someone that possess an extent of retardacy not known to men, should it be represented as a numerical value, it would be so huge that a 10 trillion + bit super quantumn computer calculating for an infinite number of years would not be able to fully process that said insanely huge numerical value.
 
 
 ### Reach out to me (or don't, i'm not lonely 🥹)!
-[<img align="left" alt="code.pendragonscode.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jasbot.pendragonscode.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Pendragonscode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
   
     
