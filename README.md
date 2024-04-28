@@ -11,6 +11,8 @@
 
 - I'm someone that possess an extent of retardacy not known to men, should it be represented as a numerical value, it would be so huge that a 10 trillion + bit super quantumn computer calculating for an infinite number of years would not be able to fully process that said insanely huge numerical value.
 
+- Since most of my work in my lifetime was more oriented to the linux kernel and unix-based binaries, I never really worked on UI, my whole life has been around the terminal.
+
 
 ### Reach out to me (or don't, i'm not lonely 🥹)!
 [<img align="left" alt="Pendragonscode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
