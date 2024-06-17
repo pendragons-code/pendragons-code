@@ -25,3 +25,32 @@
 ### Some Statistics (really terrible right?)
 ![Pendragons-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=pendragons-code&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pendragons-code&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+### Programmer's Oath
+"As a programmer, I commit to crafting code that is clear, efficient, and respectful of others' work. I embrace collaboration, continuous learning, and testing to ensure quality. I prioritize ethics, aiming to build software that is reliable, secure, and beneficial to society. With humility and a focus on clarity, I strive to improve both my skills and the code I create, contributing positively to my team and the broader community. No matter how far behind I may be in skill, I strive for excellence and will not give up. This is my oath, and I will fulfill it."<br><br>
+
+
+### The Programmer's Creed
+
+- **Craftsmanship:** I strive to write code that is elegant, efficient, and easy to understand. I take pride in my work and continuously seek to improve my skills.
+
+- **Clarity:** I value clear and concise code over cleverness. I write code not just for the computer to understand, but for my fellow programmers as well.
+
+- **Collaboration:** I believe in the power of teamwork. I communicate openly, listen actively, and contribute positively to create better solutions together.
+
+- **Continuous Learning:** Technology evolves rapidly, and so must I. I embrace lifelong learning, staying curious and exploring new ideas and technologies.
+
+- **Adaptability:** I understand that requirements change, and I welcome change as an opportunity to innovate and refine my code.
+
+- **Testing and Quality:** I write tests to validate my code and ensure its quality. I understand that robust software is built on a foundation of thorough testing.
+
+- **Respect:** I respect the work of others, including past developers and teammates. I strive to maintain and improve the codebase with humility and empathy.
+
+- **Ethics:** I recognize the impact of my code on individuals and society. I prioritize ethical considerations, striving to build software that is fair, inclusive, and secure.
+
+- **Documentation:** I document my code clearly and comprehensively, understanding its importance for future maintainers and users.
+
+- **Balance:** I value work-life balance, knowing that sustainable productivity comes from a healthy mind and body.
+
+By following this creed, I aim to contribute positively to the world through my skills as a programmer.
