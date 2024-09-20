@@ -9,20 +9,6 @@ bun, deno, V, zig and golang
 nodejs, C11 (or just C in general), cpp, rust (gave up since i semi-lost interest), py, nasm (x86_64 and arm64)<br>
 With the exeception of nodejs which is covered in my school syllabus, I have not touched most of these languages in about 2-3 years. I should really re-learn them.
 
-
-## I'm not a lot XD
-
-- Hi there, here is my back story. I started using a family computer at 6 and when I was at a young age, while playing a game, I ran into an issue where the game was not performing as well as I hoped. The next thing i did was go to youtube and search "HOW TO MAKE MY COMPUTER FASTER". Somehow by the end of the day, I was installing debian.
-
-- I have recently just came out from a dev break for a few years. In sec 2 I completely stopped writing code and only came back to it once in a while. That said the scope of what I worked on completely changed. I used to work with low level embedded devices, such as the raspberry pi, and used to try making PCI devices work on some of the arm devices in the past.
-
-- Recently I have came to a dilema and to be honest I have no idea where to go. I have lost a lot of the skills I once had and have not touch what I touched in a long time due to personal difficulty and the lack of motivation. These few years, I have only been making some dumb projects here and there. 
-
-- I'm someone that possess an extent of retardacy not known to men, should it be represented as a numerical value, it would be so huge that a 10 trillion + bit super quantumn computer calculating for an infinite number of years would not be able to fully process that said insanely huge numerical value.
-
-- Since most of my work in my lifetime was more oriented to the linux kernel and unix-based binaries, I never really worked on UI, my whole life has been around the terminal.
-
-
 ### Reach out to me (or don't, i'm not lonely 🥹)!
 [<img align="left" alt="Pendragonscode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
   
